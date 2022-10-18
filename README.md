@@ -6,6 +6,7 @@
 **Official Website**
 > *https://aedev.ca*
 
+* * *
 ## Table of contents
 - [About Us](https://github.com/AntoineDeveloper/aedev-docs#about-us)
 - [FAQ](https://github.com/AntoineDeveloper/aedev-docs#faq)
@@ -23,6 +24,8 @@
     - [Content Attribution](https://github.com/AntoineDeveloper/aedev-docs#content-attribution)
     - [Malicious Use](https://github.com/AntoineDeveloper/aedev-docs#malicious-use)
 - [Suggestions](https://github.com/AntoineDeveloper/aedev-docs#suggestions)
+
+* * *
 
 ## About Us
 We offer amazing IT services, with the best prices on the market!
