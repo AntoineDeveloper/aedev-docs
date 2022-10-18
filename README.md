@@ -75,6 +75,9 @@ We offer amazing IT services, with the best prices on the market!
 > Newsletter Email
 >> newsletter@aedev.ca
 
+> Suggestions Email
+>> suggestions@aedev.ca
+
 *Please allow us at maximum 24 to 48 hours to answers emails*
 
 * * *
