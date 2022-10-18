@@ -93,6 +93,8 @@ Our pricings are subject to change, the approximate quote may not be the final p
 ## Hacking *&* DDOS *&* Website Security
 We will not allow any sort of exploits on our website, we have the right to ban a user that is abusing our website. This website is secured by Cloudflare CDN, DDOS protection is enabled and captchas may appear. If you have concerns, please send us an email at security@aedev.ca
 
+For our complete terms of service please click [here](https://aedev.ca/terms)
+
 ## Content Attribution
 If you wish to copy our public projects, attribution would be highly appreciated, under certain circumstances adding content attribution will be required.
 
