@@ -6,7 +6,13 @@
 **Official Website**
 > *https://aedev.ca*
 
-## Who we are
+## Table of contents
+- [About Us](https://github.com/AntoineDeveloper/aedev-docs#about-us)
+- [FAQ](https://github.com/AntoineDeveloper/aedev-docs#faq)
+    - [How do I request a service?](https://github.com/AntoineDeveloper/aedev-docs#how-do-i-request-a-service)
+    - [What are the pricings?](https://github.com/AntoineDeveloper/aedev-docs#what-are-the-pricings)
+
+## About Us
 We offer amazing IT services, with the best prices on the market!
 - Website Development
 - Discord Bot Development
