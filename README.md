@@ -11,6 +11,18 @@
 - [FAQ](https://github.com/AntoineDeveloper/aedev-docs#faq)
     - [How do I request a service?](https://github.com/AntoineDeveloper/aedev-docs#how-do-i-request-a-service)
     - [What are the pricings?](https://github.com/AntoineDeveloper/aedev-docs#what-are-the-pricings)
+    - [How can I trust your services?](https://github.com/AntoineDeveloper/aedev-docs#how-can-i-trust-your-services)
+    - [Where can I get support?](https://github.com/AntoineDeveloper/aedev-docs#where-can-i-get-support)
+    - [Do you offer free services?](https://github.com/AntoineDeveloper/aedev-docs#do-you-offer-free-services)
+- [Social Media Links](https://github.com/AntoineDeveloper/aedev-docs#official-social-media-links)
+- [Official AEDEV Emails](https://github.com/AntoineDeveloper/aedev-docs#official-aedev-emails)
+- [Privacy](https://github.com/AntoineDeveloper/aedev-docs#privacy)
+- [Pricings](https://github.com/AntoineDeveloper/aedev-docs#pricings)
+- [Terms](https://github.com/AntoineDeveloper/aedev-docs#terms)
+    - [Hacking & DDOS & Security](https://github.com/AntoineDeveloper/aedev-docs#hacking--ddos--website-security)
+    - [Content Attribution](https://github.com/AntoineDeveloper/aedev-docs#content-attribution)
+    - [Malicious Use](https://github.com/AntoineDeveloper/aedev-docs#malicious-use)
+- [Suggestions](https://github.com/AntoineDeveloper/aedev-docs#suggestions)
 
 ## About Us
 We offer amazing IT services, with the best prices on the market!
